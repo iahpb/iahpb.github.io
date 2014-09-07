@@ -30,6 +30,15 @@
 	font-weight: 300;
 }
 
+.cbp-so-section p a {
+	color: #fff;
+}
+
+.cbp-so-section p a:hover {
+	cursor: pointer;
+	text-decoration: underline;
+}
+
 /* Sides */
 .cbp-so-side {
 	width: 50%;
