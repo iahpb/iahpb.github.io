@@ -111,6 +111,10 @@ a:hover {
     background-image: url('../images/batna_map.png');
 }
 
+.footer-section li a:hover {
+     color: #fff;
+}
+
 #footer hr {
     border: 0;
     border-top: 1px solid #eee;
